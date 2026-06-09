@@ -1,0 +1,16 @@
+:root {
+  --bg-app: #f4f7f6;
+  --bg-card: #ffffff;
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+  --primary: #4f46e5;
+  --primary-hover: #4338ca;
+  --border: #e2e8f0;
+  --error: #ef4444;
+  --radius: 12px;
+  --transition: all 0.2s ease-in-out;
+  --success: #10b981;
+  --success-hover: #059669;
+  --danger: #ef4444;
+  --danger-hover: #dc2626;
+}
